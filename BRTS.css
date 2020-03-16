@@ -1,0 +1,48 @@
+body{
+	margin:0;
+}
+
+.topheader{
+background-color:#222A35;
+color:white;
+padding:7px 10px 7px 10px;
+font-family:"Open Sans";
+position:fixed;
+width:100%;
+}
+
+.notice{
+display:inline-block;
+float:left;
+font-size:18px;
+}
+img{
+	height:auto;
+	vertical-align:middle;
+}
+.run{
+	width:20px;
+
+}
+
+.scroll{
+	display:inline-block;
+	width:50%;
+	font-size:14px;
+}
+
+.rightheader{
+	margin-left:20px;
+	float:right!important;
+	}
+.navbar{
+	float:left;
+	margin:0;
+}
+.ul li{
+	float:left;
+	
+	display:block;
+}
+	
+
